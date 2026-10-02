@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Todolist</string>
+    <string name="login_title">Đăng nhập</string>
+    <string name="username_hint">Tên tài khoản</string>
+    <string name="password_hint">Mật khẩu</string>
+    <string name="login_button">Đăng nhập</string>
+    <string name="login_failed">Tên tài khoản hoặc mật khẩu không đúng</string>
+    <string name="task_list_title">Danh sách công việc</string>
+    <string name="default_user_name">Nguyễn Mạnh Đạt</string>
+    <string name="username_label">Tên đăng nhập:</string>
+    <string name="today_tasks">Công việc hôm nay</string>
+    <string name="upcoming_tasks">Công việc sắp tới</string>
+    <string name="add_task">+</string>
+    <string name="add_task_title">Thêm mới công việc</string>
+    <string name="add_task_subtitle">Tạo công việc mới và sắp xếp thời gian của bạn</string>
+    <string name="task_name_label">Tên công việc</string>
+    <string name="time_label">Thời gian</string>
+    <string name="note_label">Ghi chú</string>
+    <string name="task_hint">Nhập tên công việc</string>
+    <string name="save_task">Thêm</string>
+    <string name="task_required">Vui lòng nhập tên công việc</string>
+    <string name="today_tasks_with_value">Công việc hôm nay\n\n%1$s\nNgày: %2$s\nGhi chú: %3$s</string>
+    <string name="upcoming_tasks_with_value">Công việc sắp tới\n\n%1$s\nNgày: %2$s\nGhi chú: %3$s</string>
+</resources>
